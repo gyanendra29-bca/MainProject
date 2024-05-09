@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "653619089129",
+    "firebase_url": "https://login-bfdea-default-rtdb.firebaseio.com",
+    "project_id": "login-bfdea",
+    "storage_bucket": "login-bfdea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653619089129:android:47e0f17eb8436511a82a78",
+        "android_client_info": {
+          "package_name": "com.gyanendra.mainproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653619089129-j2knug8go3aevuppcb89clt28s8do1j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyanendra.mainproject",
+            "certificate_hash": "102952bf50e3031a244ac510296feb5b35cbba97"
+          }
+        },
+        {
+          "client_id": "653619089129-sfshpsbout26sbt1i9i0efs1nc2c82lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlHsI-bvgIWwH8L5VxFdwfy0iQDNViaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653619089129-2l6ri437mhs298kondrp96c213lpcn0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

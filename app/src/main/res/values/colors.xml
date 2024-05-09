@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#5ABEEC</color>
+    <color name="purple_500">#03A9F4</color>
+    <color name="purple_700">#03A9F4</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#03A9F4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#23A82C</color>
+
+    <color name="lightBlack">#989393</color>
+    <color name="bottomNavigationColor">#86C8E6</color>
+
+
+
+
+        <color name="greenishGray">#4E864E</color>
+
+
+        <color name="colorPrimaryLight">#78CD78</color>
+        <color name="colorPrimary">#2B972B</color>
+        <color name="colorPrimaryDark">#015A01</color>
+
+        <color name="darkBlue">#50A2BA</color>
+        <color name="lightBlue">#3C9D9B</color>
+
+        <color name="lightgreen">#C0FFB3</color>
+
+        <color name="greenLight">#D4FECD</color>
+        <color name="BlueDark">#005D04</color>
+
+        <color name="pastelGreenDark">#335E33</color>
+        <color name="ecoGreenDark">#005404</color>
+
+        <color name="pastelGreen">#77DD77</color>
+
+        <color name="hintlog">#D5D5D5</color>
+
+        <color name="starColor">#FFDA23</color>
+        <color name="starSecondaryColor">#5C5327</color>
+
+        <color name="colorAccent">#D81B60</color>
+
+
+</resources>

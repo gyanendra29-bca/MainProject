@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Share Rides</string>
+    <string name="drawer_menu_profile">Profile</string>
+    <string name="drawer_menu_rating">Rating</string>
+    <string name="drawer_menu_getride">Get A Ride</string>
+    <string name="drawer_menu_setride">Set A Ride</string>
+    <string name="email">gyanendratiwari200@gmail.com\n \n
+        https://www.linkedin.com/in/gyanendra-tiwari-82aa3b250</string>
+    <string name="about"> version 1.0\nRide Share is a free and open source android carpooling app which allows to share rides to passengers</string>
+    <string name="help">Here are some general rules for both riders and passengers in a carpooling app:\n</string>
+    <string name="riders">For Riders:</string>
+    <string name="riders1">1. Be Punctual: Respect the time of your riders and fellow passengers by being ready on time for pick-up.</string>
+    <string name="riders2">2. Communicate: Keep lines of communication open with your driver. Inform them if you are running late or need to cancel.</string>
+    <string name="riders3">3. Respect the Vehicle: Treat the car as if it were your own. Avoid leaving trash behind and be mindful of cleanliness.</string>
+    <string name="riders4">4. Be Considerate: Be mindful of your fellow passengers. Avoid behaviors that may make them uncomfortable, such as playing loud music or eating strong-smelling foods.</string>
+    <string name="riders5">5. Follow Safety Guidelines: Wear your seatbelt at all times and adhere to any other safety guidelines provided by the driver.</string>
+    <string name="riders6">6. Respect Personal Boundaries: Respect the driver personal space and avoid engaging in inappropriate conversations or behaviors.</string>
+    <string name="riders7">7. Feedback: Provide constructive feedback to the carpooling app about your experience to help maintain quality service.</string>
+    <string name="passenger">\nFor Passengers:</string>
+    <string name="pa1">1. Safety First: Only pick up and drop off passengers in safe and designated areas.</string>
+    <string name="pa2">2. Clear Communication: Communicate clearly with your riders regarding pick-up and drop-off locations, as well as any other relevant details.</string>
+    <string name="pa3">3. Follow the Route: Stick to the agreed-upon route unless there is a need for a detour. Avoid deviating from the route without the agreement of all passengers.</string>
+    <string name="pa4">4. Respect Privacy: Respect the privacy of your passengers and avoid engaging in overly personal conversations unless initiated by them.</string>
+    <string name="pa5">5. Maintain a Clean Vehicle: Keep your vehicle clean and well-maintained for the comfort of your passengers.</string>
+    <string name="pa6">6. Safety Equipment: Ensure that your vehicle is equipped with necessary safety features and that all passengers wear seatbelts during the journey.</string>
+    <string name="pa7">7. Be Professional: Maintain a professional demeanor and provide a pleasant experience for your passengers.</string>
+    <string name="pa8">8. Feedback: Encourage passengers to provide feedback on their experience, and use this feedback to improve your service.</string>
+    <string name="rules">\nBy following these rules, both riders and passengers can contribute to a safe, comfortable, and enjoyable carpooling experience.</string>
+
+
+
+
+</resources>
